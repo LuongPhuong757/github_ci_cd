@@ -5,7 +5,6 @@ jspm_packages
 # Serverless directories
 .env
 yarn.lock
-package-lock.json
 yarn-error.log
 .vscode
 .prettierrc
