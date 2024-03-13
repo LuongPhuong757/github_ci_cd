@@ -1,0 +1,14 @@
+# package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.env
+yarn.lock
+package-lock.json
+yarn-error.log
+.vscode
+.prettierrc
+service_account_key.json
+serverless.yml
+*.sh
